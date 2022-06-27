@@ -8,5 +8,5 @@
    https://arxiv.org/pdf/1503.02531.pdf
 
 
-4. https://github.com/terryum/awesome-deep-learning-papers
-    
+4. 
+   https://github.com/terryum/awesome-deep-learning-papers
